@@ -6,4 +6,3 @@ Feature: helllo world print
     * def a = 10
     * def b = 20
     * print  'addition' + " " + (a + b)
-    * print 'hello world'
