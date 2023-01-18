@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="124e06d8-6073-4874-94fa-45c997c657ae" name="Changes" comment="" />
+=======
+    <list default="true" id="124e06d8-6073-4874-94fa-45c997c657ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleproject1" beforeDir="false" />
+    </list>
+>>>>>>> 9b462944d9037b3f305fb7b8e62dbd4e1c390e86
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/91839/Desktop/project/sampleProject/src/test/java/features/test.feature&quot;
   }
 }</component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: hello world scenario (1)">
+  <component name="RunManager" selected="Cucumber Java.Feature: test (2)">
     <configuration name="Feature: test (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
