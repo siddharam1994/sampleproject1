@@ -8,3 +8,4 @@ Feature: helllo world print
     * print  'addition' + " " + (a + b)
     * def abc = "What's Up"
     * print abc
+    * print 'NewWord'
