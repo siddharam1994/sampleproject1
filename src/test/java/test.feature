@@ -11,4 +11,5 @@ Feature: helllo world print
     * def abc = "What's Up"
     * print abc
     * print 'NewWord'
-
+    * def new = 30
+    * print new
