@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edb14070-c4e6-42af-acb2-2c637db334fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrintClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test1.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +14,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2K0QCw1OFM8Ff8cHO54E5HhBkrg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,7 +48,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/91839/Desktop/project/sampleProject/src/test/java/features/test.feature&quot;
   }
 }</component>
-  <component name="RunManager" selected="Cucumber Java.Feature: test (2)">
+  <component name="RunManager" selected="Cucumber Java.Feature: test1">
+    <configuration name="PrintClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintClass" />
+      <module name="sampleProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: test (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -75,15 +98,14 @@
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="All in sampleProject" run_configuration_type="JUnit" />
       </method>
     </configuration>
-    <configuration name="Feature: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: test1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="C:\Users\91839\Desktop\project\sampleProject\src\test\java\features\test.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/test1.feature" />
       <option name="GLUE" value="com.intuit.karate" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="sampleProject" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <shortenClasspath name="NONE" />
-      <option name="SUGGESTED_NAME" value="Feature: test" />
+      <option name="SUGGESTED_NAME" value="Feature: test1" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -176,21 +198,23 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PrintClass" />
       <item itemvalue="Cucumber Java.Feature: test (2)" />
       <item itemvalue="Cucumber Java.Unnamed" />
+      <item itemvalue="Cucumber Java.Feature: test1" />
       <item itemvalue="Cucumber Java.Feature: test (1)" />
       <item itemvalue="Cucumber Java.Scenario: hello world scenario" />
       <item itemvalue="Cucumber Java.Scenario: hello world scenario (1)" />
-      <item itemvalue="Cucumber Java.Feature: test" />
       <item itemvalue="Groovy.Unnamed" />
       <item itemvalue="JUnit.All in sampleProject" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: test1" />
+        <item itemvalue="Application.PrintClass" />
         <item itemvalue="Cucumber Java.Scenario: hello world scenario (1)" />
         <item itemvalue="Cucumber Java.Feature: test (1)" />
         <item itemvalue="Cucumber Java.Scenario: hello world scenario" />
-        <item itemvalue="Cucumber Java.Feature: test" />
       </list>
     </recent_temporary>
   </component>
